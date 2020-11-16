@@ -1,0 +1,8 @@
+﻿  Tetris Colored.cpp
+e:\c++ game projects\tetris colored\tetris colored\tetris colored.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\c++ game projects\tetris colored\tetris colored\tetris colored.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\c++ game projects\tetris colored\tetris colored\tetris colored.cpp(72): warning C4305: '=': truncation from 'double' to 'float'
+e:\c++ game projects\tetris colored\tetris colored\tetris colored.cpp(126): warning C4305: '=': truncation from 'double' to 'float'
+e:\c++ game projects\tetris colored\tetris colored\tetris colored.cpp(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++ game projects\tetris colored\tetris colored\tetris colored.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris Colored.vcxproj -> E:\C++ game Projects\Tetris Colored\Debug\Tetris Colored.exe
